@@ -11,4 +11,4 @@
 ##### -Support vector machine
 
 ## Created dataset
-![](./images/spiral_data.png)
+![](./images/spiral_data.PNG)
